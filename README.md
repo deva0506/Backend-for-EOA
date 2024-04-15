@@ -1,7 +1,7 @@
 
 # Event Organizing App Backend
 
-This is the backend for an event organizing application written in Java.
+This is the backend for an event organizing application written in Java using SpringBoot.
 
 ## Project Structure
 
